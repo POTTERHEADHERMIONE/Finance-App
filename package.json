@@ -1,0 +1,32 @@
+{
+  "name": "personal-finance-assistant",
+  "version": "1.0.0",
+  "description": "A comprehensive personal finance management web application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\" \"npm run flask\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "flask": "cd flask-server && python app.py",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install && cd ../flask-server && pip install -r requirements.txt",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "keywords": [
+    "finance",
+    "expense-tracker",
+    "personal-finance",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Personal Finance Assistant",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "xlsx": "^0.18.5"
+  }
+}
