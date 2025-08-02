@@ -1,6 +1,30 @@
-# Personal Finance Assistant
-
+# FINLY
 A comprehensive web application for tracking and managing personal finances with OCR receipt processing capabilities.
+## Web Application Images 
+1. Dashboard
+<img width="853" height="472" alt="Screenshot 2025-08-02 154345" src="https://github.com/user-attachments/assets/391cf160-4b91-4dc8-bd44-0f8d08ea4f28" />
+<img width="850" height="471" alt="Screenshot 2025-08-02 154420" src="https://github.com/user-attachments/assets/38a0df15-674b-49cb-bdfc-e788cf47f9e0" />
+
+2. Transactions
+<img width="859" height="472" alt="Screenshot 2025-08-02 154451" src="https://github.com/user-attachments/assets/2a24a67c-e401-4311-a94c-41c204443ab4" />
+<img width="861" height="468" alt="Screenshot 2025-08-02 154512" src="https://github.com/user-attachments/assets/365f0a01-15cd-4600-b7ea-1485a07e4465" />
+<img width="855" height="470" alt="Screenshot 2025-08-02 154630" src="https://github.com/user-attachments/assets/5feab09f-1f33-47aa-bc2e-fcaee923d683" />
+<img width="859" height="470" alt="Screenshot 2025-08-02 154723" src="https://github.com/user-attachments/assets/9fb77370-90dd-4887-af40-f05c1eb7d67f" />
+
+3.Categories
+
+<img width="848" height="471" alt="Screenshot 2025-08-02 154743" src="https://github.com/user-attachments/assets/30dd1a48-90fc-4eed-9686-8be9f52e7cf4" />
+<img width="703" height="354" alt="Screenshot 2025-08-02 154803" src="https://github.com/user-attachments/assets/f5c42d59-f4c4-4402-a5d3-176b5197ae2e" />
+<img width="854" height="473" alt="Screenshot 2025-08-02 154824" src="https://github.com/user-attachments/assets/296221ad-acf2-43d6-b284-78213f6dc0c2" />
+
+4. Receipts Upload  
+<img width="858" height="469" alt="Screenshot 2025-08-02 154846" src="https://github.com/user-attachments/assets/780c45a9-7816-4543-8ad1-e59b669796f7" />
+<img width="856" height="470" alt="Screenshot 2025-08-02 155128" src="https://github.com/user-attachments/assets/418387e9-5027-4e89-99af-a2139c1192f7" />
+<img width="856" height="470" alt="Screenshot 2025-08-02 155153" src="https://github.com/user-attachments/assets/3f6eff89-1f1f-436b-974f-c6980d244b4b" />
+
+5. Profile
+<img width="850" height="473" alt="Screenshot 2025-08-02 155210" src="https://github.com/user-attachments/assets/4fda70b8-41bd-4fb1-a22a-04a078e09973" />
+<img width="854" height="468" alt="Screenshot 2025-08-02 155226" src="https://github.com/user-attachments/assets/58e226f9-efcf-49fb-af19-c43d0d5f8813" />
 
 ## Features
 
@@ -174,6 +198,7 @@ cd flask-server && python app.py
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+
 
 ## License
 
