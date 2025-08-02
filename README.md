@@ -136,9 +136,26 @@ personal-finance-assistant/
    ```
 
    This will start:
-   - Backend API server on http://localhost:5000
+   - Backend API server on http://localhost:5000 
+If we want to run it separately
+```bash
+npm run server
+```
+<img width="360" height="123" alt="image" src="https://github.com/user-attachments/assets/ead83689-2787-49bb-ac3b-9ebbe309ba8e" />
+
    - Frontend React app on http://localhost:3000
+If we want to run it separately
+```bash
+npm run client
+```
+<img width="578" height="195" alt="image" src="https://github.com/user-attachments/assets/cd92bf64-f8b2-4349-adb1-3168e914184e" />
+
    - Flask OCR service on http://localhost:5001
+If we want to run it separately
+```bash
+npm run flask
+```
+<img width="572" height="173" alt="image" src="https://github.com/user-attachments/assets/9c4efa08-d74c-45c1-9873-3f158851eb9e" />
 
 ## API Endpoints
 
