@@ -1,0 +1,60 @@
+// src/data/transactions.js
+export const initialTransactions = [
+    {
+      id: 1,
+      description: 'Saakshi Gift',
+      amount: -85.50,
+      category: 'Food & Dining',
+      date: '2025-07-28',
+      type: 'expense',
+    },
+    {
+      id: 2,
+      description: 'Salary Payment',
+      amount: 3200.00,
+      category: 'Salary',
+      date: '2025-07-27',
+      type: 'income',
+    },
+    {
+      id: 3,
+      description: 'Gas Station',
+      amount: -45.00,
+      category: 'Transportation',
+      date: '2025-07-26',
+      type: 'expense',
+    },
+    {
+      id: 4,
+      description: 'Freelance Project',
+      amount: 800.00,
+      category: 'Freelance',
+      date: '2025-07-25',
+      type: 'income',
+    },
+    {
+      id: 5,
+      description: 'Coffee Shop',
+      amount: -12.50,
+      category: 'Food & Dining',
+      date: '2025-07-24',
+      type: 'expense',
+    },
+    {
+      id: 6,
+      description: 'Electric Bill',
+      amount: -120.00,
+      category: 'Bills',
+      date: '2025-07-23',
+      type: 'expense',
+    },
+    {
+      id: 7,
+      description: 'Spotify Subscription',
+      amount: -10.99,
+      category: 'Entertainment',
+      date: '2025-07-22',
+      type: 'expense',
+    },
+  ];
+  
